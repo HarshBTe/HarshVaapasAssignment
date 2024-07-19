@@ -1,0 +1,29 @@
+.search-container {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .search-img {
+    height: 30px;
+    width: 30px;
+  }
+  
+  .main-container {
+    background-color: #fff1eb;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    padding: 30px;
+  }
+  
+  .loader-style {
+    margin-left: 20px;
+    margin-top: 50px;
+  }
+  
+  .search-desc {
+    color: #333;
+    font-family: Arial, sans-serif;
+    width: 30%;
+  }
+  
